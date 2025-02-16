@@ -129,7 +129,7 @@ def backtest_strategy(close_prices, log_returns, short_ma_length, long_ma_length
 
 # 设置起始和结束日期
 start_date = '2014-08-15'
-end_date = '2024-09-15'
+end_date = '2024-10-30'
 
 # 固定策略参数
 bollinger_std_dev = 1  # 布林带上下轨标准差倍数
